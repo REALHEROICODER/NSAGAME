@@ -10,7 +10,7 @@ ShipSpeed = 8;
 fuelUsage = 0.02;
 
 OverrideSpeed = 20;
-OverrideUsage = 0.8;
+OverrideUsage = 0.08;
 
 //const
 Shipfuel = 180;
